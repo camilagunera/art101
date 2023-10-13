@@ -4,6 +4,29 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 4px #daff44;
+    border-style: double;
+    background-color: #000000;
+  }
+  h2 {
+    color: white
+  }
+    h1 {
+      font-family: 'Courier New';
+      font-size: 70px;
+      font-style: lighter;
+      color: #daff44
+    }
+      p{
+      font-family: 'Courier New', Courier, monospace;
+      color:aquamarine
+    }
+    span
+    { 
+      font-style: italic;
+    }
+    #content {
+    background-color: blue;
+    border: #000000; border-style: dotted; border-width: 3px;
+
   }
